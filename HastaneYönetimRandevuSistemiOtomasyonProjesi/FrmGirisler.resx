@@ -121,7 +121,7 @@
   <data name="btnHastaGirisi.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAYAAAD0eNT6AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
-        vwAADr8BOAVTJAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAE3iSURBVHhe7d0F
+        vQAADr0BR/uQrQAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAE3iSURBVHhe7d0F
         uBT13sBxT9LdHQIS0o0oioWAIGKggihIKCmpeMUAxSTEVsBri2JgIqBcBBTrVQzs7m4x/+/vv/fgNX6c
         nZmd3Z34fp/n8zzve9VzdndmZ35nd2InIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIi
         IiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIi
@@ -460,7 +460,7 @@
   <data name="btnSekreterGirisi.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAYAAAD0eNT6AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
-        wQAADsEBuJFr7QAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAGpNSURBVHhe7Z0H
+        vwAADr8BOAVTJAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAGpNSURBVHhe7Z0H
         mCVVtbbBnMUcrl71mv0NeMfEhemq6hm6u3Z1D4PaCgpGBBEUMBBUdMSIoqAkCTooItBM16lDw8gACqIg
         CAiKICIgOTPkODD9r3V6gU316u7aFc6pfc73Ps/3DMyc+nasvSvs2msdAAAAAAAAAAAAAAAAAAAAAAAA
         AAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAOUyus866zY2XvHQ8CDeM/fDDsW92bXjmhw0/PKzhmwn68wz6

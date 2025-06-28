@@ -103,5 +103,11 @@ namespace HastaneYönetimRandevuSistemiOtomasyonProjesi
             da.Fill(dt);
             dataGridView1.DataSource = dt;
         }
+
+        private void FrmHastaDetay_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            FrmHastaGiris frmHastaGiris = new FrmHastaGiris();
+            frmHastaGiris.Show();
+        }
     }
 }

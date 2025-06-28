@@ -116,6 +116,7 @@
             this.MaximizeBox = false;
             this.Name = "FrmSekreterGiris";
             this.Text = "Sekreter Girişi";
+            this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.FrmSekreterGiris_FormClosed);
             this.ResumeLayout(false);
             this.PerformLayout();
 

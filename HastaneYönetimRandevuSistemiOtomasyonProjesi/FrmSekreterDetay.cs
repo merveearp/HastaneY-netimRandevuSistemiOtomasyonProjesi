@@ -124,5 +124,11 @@ namespace HastaneYönetimRandevuSistemiOtomasyonProjesi
             FrmDuyurular frmDuyurular = new FrmDuyurular();
             frmDuyurular.Show();
         }
+
+        private void FrmSekreterDetay_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            FrmSekreterGiris frmSekreterGiris = new FrmSekreterGiris();
+            frmSekreterGiris.Show();
+        }
     }
 }

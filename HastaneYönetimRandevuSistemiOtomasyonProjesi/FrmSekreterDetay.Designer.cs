@@ -412,6 +412,7 @@
             this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "FrmSekreterDetay";
             this.Text = "Sekreter Detay";
+            this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.FrmSekreterDetay_FormClosed);
             this.Load += new System.EventHandler(this.FrmSekreterDetay_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();

@@ -141,6 +141,7 @@
             this.MaximizeBox = false;
             this.Name = "FrmGirisler";
             this.Text = "Hospital Giris";
+            this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.FrmGirisler_FormClosed);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

@@ -46,5 +46,11 @@ namespace HastaneYönetimRandevuSistemiOtomasyonProjesi
 
             sqlBaglantisi.baglanti().Close();
         }
+
+        private void FrmHastaGiris_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            FrmGirisler frmGirisler = new FrmGirisler();
+            frmGirisler.Show();
+        }
     }
 }

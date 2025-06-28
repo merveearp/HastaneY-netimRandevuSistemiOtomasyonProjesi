@@ -127,6 +127,7 @@
             this.MaximizeBox = false;
             this.Name = "FrmHastaGiris";
             this.Text = "Hasta Girişi";
+            this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.FrmHastaGiris_FormClosed);
             this.ResumeLayout(false);
             this.PerformLayout();
 

@@ -277,6 +277,7 @@
             this.MaximizeBox = false;
             this.Name = "FrmHastaDetay";
             this.Text = "Hasta Detay";
+            this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.FrmHastaDetay_FormClosed);
             this.Load += new System.EventHandler(this.FrmHastaDetay_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();

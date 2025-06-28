@@ -196,6 +196,7 @@
             this.MaximizeBox = false;
             this.Name = "FrmDoktorDetay";
             this.Text = "Doktor Detay";
+            this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.FrmDoktorDetay_FormClosed);
             this.Load += new System.EventHandler(this.FrmDoktorDetay_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();

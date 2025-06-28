@@ -42,7 +42,11 @@ namespace HastaneYönetimRandevuSistemiOtomasyonProjesi
 
 
         }
-
-        
+       
+        private void FrmDoktorGiris_FormClosed_1(object sender, FormClosedEventArgs e)
+        {
+            FrmGirisler frmGirisler = new FrmGirisler();
+            frmGirisler.Show();
+        }
     }
 }

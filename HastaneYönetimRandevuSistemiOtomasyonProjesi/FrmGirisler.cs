@@ -37,5 +37,10 @@ namespace HastaneYönetimRandevuSistemiOtomasyonProjesi
             frmSekreterGiris.Show();
             this.Hide();
         }
+
+        private void FrmGirisler_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }

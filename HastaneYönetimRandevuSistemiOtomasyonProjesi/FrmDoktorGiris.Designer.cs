@@ -117,6 +117,7 @@
             this.MinimizeBox = false;
             this.Name = "FrmDoktorGiris";
             this.Text = "Doktor Girişi";
+            this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.FrmDoktorGiris_FormClosed_1);
             this.ResumeLayout(false);
             this.PerformLayout();
 
